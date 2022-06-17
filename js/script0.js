@@ -154,3 +154,5 @@
 //           isClose = false;
 
 //           console.log(isChecked || !isClose);
+
+"use strict";
