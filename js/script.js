@@ -45,7 +45,7 @@ const personalMovieDB = {
 // personalMovieDB.movies[a] = b;
 // personalMovieDB.movies[c] = d;
 
-"use strict";
+//   "use strict";
 
 for (let i = 0; i < 2; i++) {
     const a = prompt('Один из последних просмотренных фильмов?', ''),
